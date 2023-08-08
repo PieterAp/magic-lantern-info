@@ -1,0 +1,6 @@
+repo: 4d0acc5c07929676956c3cb53c8173e198390d46
+node: d1d42c81afef039a355857d421684e4690fce0dc
+branch: flexinfo_50d
+latesttag: ML-650D-Alpha1
+latesttagdistance: 3912
+changessincelatesttag: 6597
